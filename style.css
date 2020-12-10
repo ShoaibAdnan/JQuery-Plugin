@@ -1,0 +1,18 @@
+p {
+    color: blue;
+    text-align: center;
+  }
+
+h1 {
+    color: red;
+    margin-left: 20px;
+}
+
+h2 {
+    margin-left: 20px;
+    color: red;
+  }
+
+  body{
+      background-color: black;
+  }
